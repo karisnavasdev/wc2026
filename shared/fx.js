@@ -1,5 +1,5 @@
 /* ============================================================
-   $WC2026 · shared FX library
+   $MUNDIAL · shared FX library
    WebAudio-synthesised sounds (no external files), haptics,
    number-count, reveal, magnetic / tilt helpers.
    Works offline. One user gesture unlocks audio automatically.
